@@ -1,5 +1,7 @@
 # Organo
 
+[🌐Live Demo](https://organo-alura-rose-beta.vercel.app/)
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido como parte do curso "React: desenvolvendo com JavaScript" da Alura, ministrado pelos instrutores Paulo Silveira e Vinicios Neves. A aplicação tem como objetivo exibir pessoas organizadas em seus respectivos times.
