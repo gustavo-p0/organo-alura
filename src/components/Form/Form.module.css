@@ -1,0 +1,15 @@
+.c-formulario{
+  margin: 8rem 0;
+  padding-inline: 16rem;
+}
+.c-formulario__title{
+font-size: 3.2rem;
+font-weight: 700;
+}
+
+.c-formulario__form{
+  background-color: #f6f6f6;
+  border-radius: 20px;
+  padding: 3.3rem 9.6rem;
+  box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 0.08);
+}

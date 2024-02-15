@@ -1,0 +1,25 @@
+.c-team{
+text-align: center;
+padding: 3.2rem;
+}
+
+.c-team__title{
+  font-size: 3.2rem;
+  border-bottom: 4px solid;
+  display: inline-block;
+  text-transform: capitalize;
+  padding-bottom: 0.8rem;
+}
+
+.c-team__buddys{
+  padding-top: 3.2rem;
+  padding-inline: 12.8rem;
+  display: flex;
+  gap: 2.4rem;
+  flex-wrap: wrap;
+}
+
+.c-team__buddys > *{
+  flex-grow: 1;
+}
+

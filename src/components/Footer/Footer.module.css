@@ -1,0 +1,30 @@
+.c-footer {
+  background-color: #6278f7;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  padding: 7.5rem 16.6rem;
+}
+
+.c-footer__social {
+  display: flex;
+  column-gap: 3.4rem;
+}
+
+.c-footer__social img {
+  width: 3.2rem;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+}
+
+.c-footer__logo {
+  object-fit: contain;
+  margin-inline: auto;
+}
+
+.c-footer__text {
+  color: #fff;
+  font-size: 2rem;
+  max-width: 200px;
+}

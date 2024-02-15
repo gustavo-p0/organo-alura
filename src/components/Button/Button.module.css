@@ -1,0 +1,15 @@
+.c-button{
+  background: #6278f7;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.8rem;
+  padding: 3.2rem;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  margin: 3.2rem 0;
+}
+
+.c-button:hover{
+  color: #95ffd4;
+}
